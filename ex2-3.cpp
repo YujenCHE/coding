@@ -3,7 +3,7 @@ int main (){//main是函式,()裡有引數
     int a, b;
     float c,d;
     printf("A=> ");
-    scanf("%d", &a);
+    scanf("%d", &a);//要記得寫("%d",&a)
     printf("B=> ");
     scanf("%d", &b);
     printf("C=> ");
