@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    char op;
+    char op;operator在C++是保留字所以要換
     double first,second;
     
     printf("Please enter + - * /");
