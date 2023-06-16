@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int i,arr[] = {1,2,3,4,88,93,6};//不一定要指定陣列的大小
+    int i,arr[] = { 1, 2, 3, 4, 88, 93, 6};//不一定要指定陣列的大小
     
     printf("Number of the element => %lu\n\n", sizeof(arr) / sizeof(arr[0]));//lu是一條的 & 空了兩行
     
