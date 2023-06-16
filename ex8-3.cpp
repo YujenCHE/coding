@@ -6,7 +6,7 @@ int main()
 {
     char d[6] = {'h', 'a', 'p', 'p', 'y', '\0'};
     
-    const int N = 9;
+    const int N = 9;//const => 不會被改掉
     int a[N] = {0};
     char b[N] = "hello";
     
